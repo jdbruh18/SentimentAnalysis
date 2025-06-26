@@ -15,7 +15,7 @@ This project uses Python and scikit-learn to classify tweets as positive or nega
 ![Confusion Matrix](results/confusion_matrix.png)
 
 ## Dataset
-Uses the Sentiment140 dataset from Kaggle (or specify your dataset).
+Uses the Sentiment140 dataset from Kaggle .
 
 ## Future Improvements
 - Add advanced models like BERT.
